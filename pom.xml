@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.commonsware</groupId>
   <artifactId>cwac-wakeful</artifactId>
-  <version>0.4.5</version>
+  <version>0.5.0</version>
   <packaging>jar</packaging>
 
   <licenses>
